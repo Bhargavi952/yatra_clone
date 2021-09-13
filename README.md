@@ -72,6 +72,10 @@ Start the server
 - [Sunil Kumar](https://github.com/ssunilkkumar)
 - [Bhargavi](https://github.com/Bhargavi952)
 
+## View
+### Deployed link:
+- https://yatraclone.netlify.app/
+
 
 
 
