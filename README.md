@@ -74,7 +74,7 @@ Start the server
 
 ## View
 ### Deployed link:
-- https://yatraclone.netlify.app/
+- https://twitter-react-app.netlify.app/signup
 
 
 
